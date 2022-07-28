@@ -1,1 +1,3 @@
-# primeiro-reposit-rio
+# primeirorepositrio
+
+repositório criado para as aulas de pensamento computacional com o professor gerson para incluir arquivos
